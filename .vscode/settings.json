@@ -1,0 +1,17 @@
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 14,
+  "window.zoomLevel": 0,
+  "[Log]": {
+    "editor.fontSize": 14
+  },
+  "workbench.sideBar.location": "left",
+  "workbench.colorCustomizations": {
+    "[Monokai]": {
+      "editor.background": "#171616",
+    },
+    "tab.activeBackground": "#000",
+    "tab.inactiveBackground": "#23241f",
+  }
+}
